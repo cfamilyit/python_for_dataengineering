@@ -1,0 +1,11 @@
+from arithmetic import *
+print("A is:",a)
+print("B is:",b)
+print("*"*30)
+sum()
+print("*"*30)
+sub()
+print("*"*30)
+mul()
+print("*"*30)
+div()

@@ -1,0 +1,11 @@
+import arithmetic
+print("A is:",arithmetic.a)
+print("B is:",arithmetic.b)
+print("*"*30)
+arithmetic.sum()
+print("*"*30)
+arithmetic.sub()
+print("*"*30)
+arithmetic.mul()
+print("*"*30)
+arithmetic.div()
